@@ -1,0 +1,1 @@
+Inplement the forward and backward scaling using the results of exercise 1 and 2. And inplement the em using exercise 3.
