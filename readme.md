@@ -1,4 +1,4 @@
-##java programs for NLP
+## java programs for NLP
 
 p1: Given a training corpus, estimate bigram language models with proper smoothings(`good turing` and `lapras`) and use the models to find mis-spellings in a test corpus.
 
